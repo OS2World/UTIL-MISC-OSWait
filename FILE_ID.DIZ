@@ -1,0 +1,5 @@
+OSWAIT  v1.0, OS/2 & DOS.  By John M. Warren
+Three batch file utils that count down a user
+specified number of seconds. If the user hits
+"Q" then the program will terminate with an
+errorlevel of 1. Samples & C source included.
